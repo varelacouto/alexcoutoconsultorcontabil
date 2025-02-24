@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #000;
+  background-color: #FFF;
   height: 100vh;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h2.titulo {
-  color: #FFF;
+  color: #7D7D7D;
   font-size: 38px;
   text-align: center;
 }
@@ -65,7 +65,8 @@ header a {
 }
 
 header nav.menu-desktop a:hover {
-  color: #FFF;
+  color: #000;
+  font-weight: 400;
   transform: scale(1.05);
 }
 
@@ -160,7 +161,7 @@ section.topo-do-site .flex {
 }
 
 .topo-do-site h1 {
-  color: #FFF;
+  color: #000;
   font-size: 42px;
   line-height: 40px;
 }
@@ -170,7 +171,7 @@ section.topo-do-site .flex {
 }
 
 .topo-do-site .txt-topo-site p {
-  color: #FFF;
+  color: #7D7D7D;
   margin: 40px 0px;
 }
 
@@ -198,7 +199,7 @@ section.especialidades .flex {
 }
 
 .especialidades .especialidades-box {
-  color: #FFF;
+  color: #696969;
   padding: 40px;
   border-radius: 20px;
   margin-top: 45px;
@@ -210,7 +211,8 @@ section.especialidades .flex {
 
 .especialidades .especialidades-box:hover {
   transform: scale(1.05);
-  box-shadow: 0 0 20px #FFF;
+  color: #000;
+  box-shadow: 0 0 20px #00FF08;
   cursor: pointer;
 }
 
@@ -243,7 +245,7 @@ section.sobre .flex {
 }
 
 .sobre .txt-sobre {
-  color: #FFF;
+  color: #7D7D7D;
 }
 
 .sobre .txt-sobre h2 {
@@ -393,7 +395,7 @@ footer .line-footer p i {
 }
 
 footer .line-footer p a {
-  color: #FFF;
+  color: #7D7D7D;
   margin-left: 10px;
 }
 
